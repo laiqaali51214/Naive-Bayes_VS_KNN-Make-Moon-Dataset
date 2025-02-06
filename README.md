@@ -1,1 +1,1 @@
-# Na-ve-Bayes_VS_KNN-Make-Moon-Dataset-
+# Naive-Bayes_VS_KNN-Make-Moon-Dataset
